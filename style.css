@@ -1,1 +1,22 @@
+/* *{
+    border: solid;
+} */
+h1{
+    text-align: center;
+}
 
+h1 {
+    color: rgb(197, 107, 107);
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+}
+section{
+    padding: 2em 0;
+}
+body {
+    background-color: aqua;
+}
